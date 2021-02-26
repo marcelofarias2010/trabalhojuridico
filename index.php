@@ -11,7 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+        require './include/header.php';
+        require './include/conteudo.php';
+        require './include/footer.php';
         ?>
     </body>
 </html>
