@@ -1,19 +1,7 @@
-<!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title></title>
-    </head>
-    <body>
-        <?php
-        require './include/header.php';
-        require './include/conteudo.php';
-        require './include/footer.php';
-        ?>
-    </body>
-</html>
+
+<?php
+include './include/header.php';
+include './include/conteudo.php';
+include './include/footer.php';
+
+?>
